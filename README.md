@@ -4,7 +4,7 @@
 <p align="center">Turning imagination into reality 🚀</p>
 <p align="center">
  <a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
- <a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+ <a href="#" target="_blank"><img alt="https://zn3y.github.io/Zn3y/" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
  </p>
 
 ## Tech Stack 💻
