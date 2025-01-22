@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋🏻, I'm Zn3y </br> 
+<h1 align="center"> Hi 👋🏻, I'm Schneyder Garzon </br> 
 </h1>
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
