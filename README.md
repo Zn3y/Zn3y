@@ -17,6 +17,7 @@
 
 #### JS Framework/Library
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
 
 #### Database/State
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
