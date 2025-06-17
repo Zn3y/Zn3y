@@ -7,6 +7,13 @@
  <a href="https://zn3y.github.io/Zn3y/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
  </p>
 
+## 🧠 About Me
+* 🧒 I'm Schneyder, a 28-year-old Junior Software Engineer who’s been coding since I was 14.
+* 🧑‍💼 I’m the founder of TeraxDevs, a design and development agency.
+* 💡 I enjoy building all kinds of things—web apps, mobile apps, and even games.
+* 🧰 I’m comfortable working across the stack, from backend services to polished frontend UIs.
+* ⚙️ I value clean code, developer efficiency, and containerized workflows.
+
 ## 🧰 Tech Stack
 
 #### 🖥️ Languages
